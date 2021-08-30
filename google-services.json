@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "702989203085",
+    "project_id": "crash-4fb39",
+    "storage_bucket": "crash-4fb39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702989203085:android:4f8a559b1557ee528854c4",
+        "android_client_info": {
+          "package_name": "crash.com.tw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702989203085-9b4ao74qpdgpen1pooe29ru0vbtuo7gn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe8GvayL2qg7kaamjAZr7Hh94LQljuANs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702989203085-9b4ao74qpdgpen1pooe29ru0vbtuo7gn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

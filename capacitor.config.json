@@ -1,0 +1,6 @@
+{
+  "appId": "crash.com.tw",
+  "appName": "crash",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
