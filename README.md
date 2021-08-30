@@ -1,28 +1,26 @@
-# example
+# Setup of reproduce crash
 
-## Project setup
+first , use the command to init project
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
+then , build source code
 ```
 npm run build
 ```
 
-### Lints and fixes files
+use the command to generate android studio project
 ```
-npm run lint
+npx cap add android
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+put google-services.json to android/app/ 
 
-### notice
+then,open android directory with android studio.
 
-if building android app , the google-services.json should be puted in android/app/ .
+run app in adroid emulator. (should be over 8.0)
+
+the error log in Logcat.
+
+
