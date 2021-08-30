@@ -36,7 +36,7 @@ export default {
       
     });
 
-    /* 收到推播通知時的處理 */
+    
     PushNotifications.addListener("pushNotificationReceived", (notice) => {
 
       console.log(JSON.stringify(notice));
